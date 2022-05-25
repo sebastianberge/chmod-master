@@ -8,6 +8,15 @@ class Home extends Component {
 		this.state = {
 			numbersField: "",
 			textField: "",
+			ownerRead: 0,
+			ownerWrite: 0,
+			ownerExecute: 0,
+			groupRead: 0,
+			groupWrite: 0,
+			groupExecute: 0,
+			publicWrite: 0,
+			publicRead: 0,
+			publicExecute: 0,
 		};
 	}
 
