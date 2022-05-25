@@ -1,6 +1,6 @@
 # chmod-master
 
-![GitHub issues](https://img.shields.io/github/issues/sebastianberge/chmod-master)
+![GitHub issues](https://img.shields.io/github/issues/sebastianberge/chmod-master) ![GitHub last commit](https://img.shields.io/github/last-commit/sebastianberge/chmod-master)
 
 ---
 
