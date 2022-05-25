@@ -1,4 +1,6 @@
-# CHMOD-MASTER
+![GitHub issues](https://img.shields.io/github/issues/sebastianberge/chmod-master)
+
+# chmod-master
 
 A simple chmod-calculator for creating the correct command.
 
@@ -10,8 +12,8 @@ Files/directories in Linux are controlled through permissions, which are seperat
 - Group
 - Public
 
-CHMOD-MASTER lets you calculate which chmod-command to use for what type of permission you need.
+chmod-master lets you calculate which chmod-command to use for what type of permission you need.
 
-## Legal
+## Information
 
 Made for fun, as there allready exists chmod-calculators.
