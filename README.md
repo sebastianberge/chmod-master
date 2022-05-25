@@ -1,8 +1,12 @@
-![GitHub issues](https://img.shields.io/github/issues/sebastianberge/chmod-master)
-
 # chmod-master
 
+![GitHub issues](https://img.shields.io/github/issues/sebastianberge/chmod-master)
+
+---
+
 A simple chmod-calculator for creating the correct command.
+
+---
 
 ## A brief overview
 
