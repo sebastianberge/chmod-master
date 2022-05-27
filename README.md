@@ -20,4 +20,4 @@ chmod-master lets you calculate which chmod-command to use for what type of perm
 
 ## Information
 
-Made for fun, as there allready exists chmod-calculators.
+Made for fun.
